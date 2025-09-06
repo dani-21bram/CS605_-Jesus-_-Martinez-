@@ -53,6 +53,7 @@ while True:
         print("Thank you. Goodbye!")
         break
 
+
 #explanation i used while loop sinc ei had to check if the inout of both number were integers, initially it was different and I kept having trouble so
 #this was then the most reasonable option to follow,
 then the arithmetic options are displayed, you have to select one, if not the loop will force you to dot it, 
